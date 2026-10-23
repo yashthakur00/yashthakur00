@@ -1,10 +1,10 @@
 # 💫 About Me
 
-# Hi there, I'm Ritesh 👋
+# Hi there, I'm Yash Thakur👋
 
 💻 **Full-Stack Developer** • ⚙️ **Backend Engineering Enthusiast** • 🤖 **AI Applications** • 🚀 **System Design Learner**
 
-I'm a final-year Computer Engineering student passionate about building scalable backend systems, AI-powered applications, and distributed software.
+I'm a second year BCA student passionate about building scalable backend systems, AI-powered applications, and distributed software.
 
 I enjoy solving engineering problems beyond just making features work—focusing on **performance, scalability, reliability, clean architecture, and production-ready systems**.
 
